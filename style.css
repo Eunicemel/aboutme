@@ -1,0 +1,23 @@
+html {
+    background-color: #9DA993;
+    height: 100%;
+    width: 100%;
+  }
+  
+  .header {
+    color: #E3E8E9;
+    font-size: 3em;
+    font-family: 'Sofia';
+  }
+  #top {
+    font-size: 2em;
+    color:#E4B4B4;
+    font-family: 'Aclonica';
+    
+  }
+  #bottom{
+    font-size: 2em;
+    background-color: #BCA88E;
+  
+    font-family: 'Aclonica';
+  }
